@@ -1,5 +1,5 @@
 <h1 align='center'>
-    ¡Hola 🖖🏼 soy Sasha!
+    ¡Hola! soy Sasha,
     <p align='center'>
       Frontend/Desarrolladora web 
     </p>
@@ -38,10 +38,8 @@
 </a> 
 
 ## 💽 Sistemas Operativos
-<a>
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
 </a> 
-<a>
-<img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 </a> 
 
