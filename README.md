@@ -1,7 +1,47 @@
-# profile
-##### FrontEnd Development
+<h1 align='center'>
+    ¡Hola 🖖🏼 soy Sasha!
+    <p align='center'>
+      Frontend/Desarrolladora web 
+    </p>
+</h1>
 
-
-<p align="left>
-<a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="65" height="65"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="65" height="65"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="65" height="65"/> </a>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/sasha-bel%C3%A9n-estrella-301167203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://discord.gg/CJDB6bRE" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sashaestrella&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
+## ⚙️ Tecnologías
+
+<a><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/html5%20-%23F7DF1E.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/kotlin%20-%23CC6699.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/reactnative%20-%2302569B.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/bootstrap%20-%23121011.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/mysql-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+</a> 
+<a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</a> 
+
+## 💽 Sistemas Operativos
+<a>
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+</a> 
+<a>
+<img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+</a> 
+
