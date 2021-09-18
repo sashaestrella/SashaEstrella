@@ -36,7 +36,7 @@
 </a> 
 <a><img src="https://img.shields.io/badge/mysql-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </a> 
-<a><img src="https://img.shields.io/badge/nodejs%20-%2338B2AC.svg?&style=for-the-badge&logo=node&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/nodejs%20-%2338B2AC.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 <a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a> 
