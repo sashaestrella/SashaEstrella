@@ -14,6 +14,7 @@
 <a><img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/></a>
 
 📚 Educación
-Ingeniería en Sistemas de Información
+<p align="start"> Ingeniería en Sistemas de Información 
 Universidad Tecnológica Nacional (UTN)
 4to año - Actualmente
+</p>
